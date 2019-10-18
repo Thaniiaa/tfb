@@ -5,6 +5,7 @@ Pesan : biasakan membaca README.md ssbelum menggunakan
 Link Apk : https://play.google.com/store/apps/details?id=com.trueefeedbackchain.bountypoll
 
 Tahap Pertama 
+
 daftar.php
 
 Reff :
